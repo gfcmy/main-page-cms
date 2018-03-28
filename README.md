@@ -1,2 +1,2 @@
-# main_page_admin
+# main_page_CMS
 Basic CMS for film group website
